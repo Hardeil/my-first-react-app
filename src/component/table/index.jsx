@@ -1,7 +1,7 @@
 import React from "react";
-import Employee from "../component/employee";
+import Employee from "../employee";
 
-function Dashboard() {
+function Table() {
   return (
     <div>
       <table>
@@ -32,4 +32,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default Table;
